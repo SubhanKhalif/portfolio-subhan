@@ -20,7 +20,6 @@ Showcasing my projects, skills, resume, and contact links in a sleek and interac
 - **Typed.js** – for typing animation effects
 - **Tilt.js** – for tilt-on-hover 3D effect
 - **ScrollReveal.js** – for scroll animations
-- **Tawk.to** – for live chat support
 - **Font Awesome** – for icons
 - **JSON** – for structured data
 
