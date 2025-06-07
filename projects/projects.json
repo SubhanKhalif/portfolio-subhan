@@ -2,7 +2,7 @@
   {
     "name": "Respdect",
     "desc": "Built an AI system using 2500 medical images to detect COVID-19. Used advanced image processing and achieved 85% accuracy in identifying COVID cases from X-rays.",
-    "image": "respdect",
+    "image": "Respdect",
     "category": "ai",
     "links": {
       "view": "https://github.com/SubhanKhalif/Respdect",
