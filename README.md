@@ -35,10 +35,11 @@ Showcasing my projects, skills, resume, and contact links in a sleek and interac
 
 ## 📬 Contact Me
 
-Feel free to reach out to me via the following platforms:
+Feel free to connect with me on the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/subhan-khalif](https://www.linkedin.com/in/subhan-khalif-8636842a3/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/subhan.khalif](https://www.instagram.com/subhan_khalif))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhan-khalif-8636842a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhan_khalif)
+
 
 ---
 
