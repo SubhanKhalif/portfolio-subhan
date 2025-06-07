@@ -20,7 +20,6 @@ Showcasing my projects, skills, resume, and contact links in a sleek and interac
 - **Typed.js** – for typing animation effects
 - **Tilt.js** – for tilt-on-hover 3D effect
 - **ScrollReveal.js** – for scroll animations
-- **Tawk.to** – for live chat support
 - **Font Awesome** – for icons
 - **JSON** – for structured data
 
@@ -30,16 +29,17 @@ Showcasing my projects, skills, resume, and contact links in a sleek and interac
 
 | Landing Page | About Section |
 |--------------|----------------|
-| ![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png) | ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png) |
+| ![mockup720](assets/images/gitscreenshot/home.png) | ![ss](assets/images/gitscreenshot/about.png) |
 
 ---
 
 ## 📬 Contact Me
 
-Feel free to reach out to me via the following platforms:
+Feel free to connect with me on the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhan-khalif)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhan.khalif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhan-khalif-8636842a3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/subhan_khalif)
+
 
 ---
 
