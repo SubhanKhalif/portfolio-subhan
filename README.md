@@ -30,7 +30,7 @@ Showcasing my projects, skills, resume, and contact links in a sleek and interac
 
 | Landing Page | About Section |
 |--------------|----------------|
-| ![mockup720](assets/images/gitscreenshot/home.png) | ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png) |
+| ![mockup720](assets/images/gitscreenshot/home.png) | ![ss](assets/images/gitscreenshot/about.png) |
 
 ---
 
