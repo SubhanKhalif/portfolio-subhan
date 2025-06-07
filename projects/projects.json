@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Respdect",
+    "desc": "Built an AI system using 2500 medical images to detect COVID-19. Used advanced image processing and achieved 85% accuracy in identifying COVID cases from X-rays.",
+    "image": "respdect",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/SubhanKhalif/Respdect",
+      "code": "https://github.com/SubhanKhalif/Respdect"
+    }
+  },
+  {
+    "name": "GridSync - The Private Sheets",
+    "desc": "Created a secure online spreadsheet tool with login protection. Users can store and manage their private data safely in the cloud.",
+    "image": "gridsync",
+    "category": "mern",
+    "links": {
+      "view": "https://gridsync.vercel.app",
+      "code": "https://github.com/SubhanKhalif/GridSync"
+    }
+  }
+]
